@@ -16,10 +16,10 @@ Project Structure
 ```
 project/
 │
-├── model.pth              # Trained model weights
-├── requirements.txt       # Dependencies
-├── CIFAR-10 Image Classification.ipynb         # Training notebook
-└── README.md              # Project documentation
+├── model.pth              
+├── requirements.txt       
+├── CIFAR-10 Image Classification.ipynb         
+└── README.md              
 ```
 
 ## Installation
